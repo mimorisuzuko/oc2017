@@ -1,0 +1,19 @@
+{
+  "name": "oc2017",
+  "version": "0.0.1",
+  "description": "WIP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Hiroki Usuba <hrky0206@gmail.com> (http://mimorisuzuko.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^1.6.6",
+    "noble": "^1.8.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "rolling-spider": "^1.7.0"
+  }
+}
