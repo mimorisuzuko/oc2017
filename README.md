@@ -1,4 +1,4 @@
-# Open Campus2017
+# Open Campus 2017
 
 ## Setup
 
